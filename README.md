@@ -16,3 +16,6 @@ bash> pip install transformers accelerate
 # Run
 bash> python main.py
 ```
+
+amd gpu
+- https://github.com/RadeonOpenCompute/ROCm-docker/blob/master/quick-start.md
