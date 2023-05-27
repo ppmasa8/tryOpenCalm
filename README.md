@@ -14,7 +14,7 @@ $ docker compose exec python3 bash
 bash> pip install transformers accelerate
 
 # Run
-bash> python main.py
+bash> python3 main.py
 ```
 
 amd gpu
